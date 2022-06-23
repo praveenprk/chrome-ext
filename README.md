@@ -1,5 +1,11 @@
-# this extension is created following the hello world chrome extension tutorial.
+# About this extension 
 
-# However, it is used to learn and understand the basics of the extensions
+this extension is created following the hello world chrome extension tutorial.
 
-# all the lines or objects that are important have been labeled by their actions and purpose in comment form.
+# Purpose
+
+However, it is used to learn and understand the basics of the extensions
+
+All the lines or objects that are important have been labeled by their actions and purpose in comment form.
+
+The intention is to create it as a resource that acts as a reference in the future.
